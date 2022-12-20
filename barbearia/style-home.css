@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.principal {
+    background-color: #cccccc;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+.barber1 {
+    width: 100%;
+}
+.subtitulos {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+}
+.beneficios {
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
+}
+.barber2 {
+    width: 50%;
+}
